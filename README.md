@@ -12,9 +12,9 @@ Python, Pandas, NumPy, Matplotlib, and Seaborn. The notebook includes data inspe
 
 ## Other portfolio projects
 
-- [Netflix Relational Database Schema Design](projects/netflix-database-schema/README.md) — PostgreSQL schema report, SQL examples, and ER diagram.
-- [Module 4 Power BI Dashboard](projects/module-4-power-bi/README.md) — four-page Power BI report with the PBIX file and project documentation.
-- [Python Programming Capstone](projects/python-programming-capstone/README.md) — introductory Python programming exercises and problem-solving notebook.
+- [Netflix Relational Database Schema Design](https://github.com/gyabp2000-maker/Netflix-Database-Schema) — PostgreSQL database backup, schema report, and ER diagram.
+- [Module 4 Power BI Dashboard](https://github.com/gyabp2000-maker/Power-BI-Data-Analysis) — dashboard project documentation. The original PBIX file is retained in [`projects/module-4-power-bi/`](projects/module-4-power-bi/) until its separate transfer is verified.
+- [Python Programming Capstone](https://github.com/gyabp2000-maker/Python-Programming-Capstone) — introductory programming exercises and problem-solving notebook.
 
 ## Run the notebook
 
