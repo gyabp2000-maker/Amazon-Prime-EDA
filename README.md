@@ -12,6 +12,7 @@ Python, Pandas, NumPy, Matplotlib, and Seaborn. The notebook includes data inspe
 
 ## Other portfolio projects
 
+- [Module 4 Power BI Dashboard](projects/module-4-power-bi/README.md) — four-page Power BI report (project documentation; PBIX upload pending).
 - [Python Programming Capstone](projects/python-programming-capstone/README.md) — introductory Python programming exercises and problem-solving notebook.
 
 ## Run the notebook
