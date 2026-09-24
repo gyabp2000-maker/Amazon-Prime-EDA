@@ -4,6 +4,7 @@ An academic capstone project modeling a Netflix-style streaming platform with re
 
 ## Project files
 
+- [PostgreSQL database backup](netflix_schema.sql) — original uploaded database export. Despite the `.sql` filename, this is a PostgreSQL custom-format archive, not a plain-text SQL script.
 - [Database schema design report](Netflix_Relational_Database_Schema_Design.docx) — project overview, entity descriptions, relationships, SQL table definitions, sample data, queries, and design rationale.
 - [ER diagram](Netflix_ER_Diagram.png) — visual overview of the entities, primary keys, and foreign keys.
 
