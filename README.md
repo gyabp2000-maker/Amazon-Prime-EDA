@@ -10,6 +10,10 @@ A data analytics portfolio project exploring Amazon Prime Video titles, genres, 
 
 Python, Pandas, NumPy, Matplotlib, and Seaborn. The notebook includes data inspection, missing-value and duplicate checks, feature engineering, visualizations, and written observations. It explores catalog composition, release trends, genres, runtime, IMDb ratings, TMDB popularity, and cast and crew.
 
+## Other portfolio projects
+
+- [Python Programming Capstone](projects/python-programming-capstone/README.md) — introductory Python programming exercises and problem-solving notebook.
+
 ## Run the notebook
 
 1. Download the notebook and open it in Google Colab.
