@@ -13,7 +13,7 @@ Python, Pandas, NumPy, Matplotlib, and Seaborn. The notebook includes data inspe
 ## Other portfolio projects
 
 - [Netflix Relational Database Schema Design](projects/netflix-database-schema/README.md) — PostgreSQL schema report, SQL examples, and ER diagram.
-- [Module 4 Power BI Dashboard](projects/module-4-power-bi/README.md) — four-page Power BI report (project documentation; PBIX upload pending).
+- [Module 4 Power BI Dashboard](projects/module-4-power-bi/README.md) — four-page Power BI report with the PBIX file and project documentation.
 - [Python Programming Capstone](projects/python-programming-capstone/README.md) — introductory Python programming exercises and problem-solving notebook.
 
 ## Run the notebook
